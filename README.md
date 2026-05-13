@@ -14,7 +14,7 @@ Dhall, A., Patiyal, S., Sharma, N., Devi, N. L., and Raghava, G. P. S. Computer-
 
 https://doi.org/10.1016/j.compbiomed.2021.104780
 
-This tool and dataset is also available on Zenodo at 
+This tool and dataset is also available on Zenodo at https://doi.org/10.5281/zenodo.20165715
 
 
 
